@@ -8,6 +8,9 @@ Scientific Advisors: [Ljupco Pejov](mailto:ljupcop@pmf.ukim.mk)
 
 Contributors: Thanks to Vojdan Kjorverziroski for his help in deploying the code.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19039928.svg)](https://doi.org/10.5281/zenodo.19039928)
+
+
 ## Overview 
 
 The RESTful web service for fitting repulsive potentials in density-functional tight-binding with Gaussian process regression (Gaussian API) fits repulsive potentials in density-functional tight-binding (DFTB) with Gaussian process regression. 
