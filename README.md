@@ -13,7 +13,7 @@ Contributors: Thanks to Vojdan Kjorverziroski for his help in deploying the code
 
 ## Overview 
 
-The RESTful web service for fitting repulsive potentials in density-functional tight-binding with Gaussian process regression (Gaussian API) fits repulsive potentials in density-functional tight-binding (DFTB) with Gaussian process regression. 
+The RESTful web service for fitting repulsive potentials in density-functional tight-binding with Gaussian process regression (Gaussian API) fits repulsive potentials in density-functional tight-binding (DFTB) with Gaussian process regression. The service documentation can be found on the following link: [Gaussian API User Manual](https://gaussian.chem-api.finki.ukim.mk/static/GaussianAPI_user_manual.html).
 
 ## Software metadata
 
